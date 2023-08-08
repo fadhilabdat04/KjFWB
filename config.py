@@ -5,8 +5,8 @@ api_hash = os.environ.get("API_HASH", "301a39af78de73406a67c75ad7dd7301")
 bot_token = os.environ.get("BOT_TOKEN", "6196461165:AAFZ0fX5-F2gMb0JNQauTJma2ljHRwyiEeU")
 # =========================================================== #
 
-db_url = os.environ.get("DB_URL", "Menfes03")
-db_name = os.environ.get("DB_NAME", "mongodb+srv://Menfes03:fadhil12345@cluster0.psjzpkc.mongodb.net/?retryWrites=true&w=majority")
+db_url = os.environ.get("DB_URL", "mongodb+srv://fadhil01:fadhil123@fadhil01.s6lkqsq.mongodb.net/?retryWrites=true&w=majority")
+db_name = os.environ.get("DB_NAME", "fadhil01")
 # =========================================================== #
 
 channel_1 = int(os.environ.get("CHANNEL_1", "-1001509543098"))
@@ -14,7 +14,7 @@ channel_2 = int(os.environ.get("CHANNEL_2", "-1001956779347"))
 channel_log = int(os.environ.get("CHANNEL_LOG", "-1001964399865"))
 # =========================================================== #
 
-id_admin = int(os.environ.get("ID_ADMIN", "5799212681"))
+id_admin = int(os.environ.get("ID_ADMIN", "6103178771"))
 # =========================================================== #
 
 batas_kirim = int(os.environ.get("BATAS_KIRIM", "3"))
