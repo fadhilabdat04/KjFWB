@@ -32,7 +32,9 @@ async def send_with_pic_handler(client: Client, msg: types.Message, key: str, ha
         if key == hastag[0] and user.status in ['girlfriend rent']:
             picture = config.pic_gf_rent
         elif key == hastag[1] and user.status in ['boyfriend rent']:
-            picture = config.pic_bf_rent    
+            picture = config.pic_bf_rent
+        if key == hastag[1] and user.status in ['Sugar Daddy']:
+            picture = config.pic_Daddy_Sugar
             
         link = await get_link()
         caption = msg.text or msg.caption
