@@ -43,6 +43,7 @@ pic_girl = os.environ.get("PIC_GIRL", "https://telegra.ph//file/4d228a9ac5ea990d
 pic_talent = os.environ.get("PIC_TALENT", "https://telegra.ph//file/3779f7368bed17557c71a.jpg")
 pic_bf_rent = os.environ.get("PIC_BF_RENT", "https://telegra.ph//file/44e90c837fdded8a9bb8d.jpg")
 pic_gf_rent = os.environ.get("PIC_GF_RENT", "https://telegra.ph//file/225355e06d730073285b2.jpg")
+pic_Daddy_Sugar = os.environ.get("PIC_DADDY_SUGAR", "https://telegra.ph//file/f2a63f456933489e80cf0.jpg")
 # =========================================================== #
 
 pesan_join = os.environ.get("PESAN_JOIN", "Hai {mention} Sobat FWB😉\n\nKamu Tidak dapat Mengirim Menfes , Harap Join Terllebih Dahulu Untuk Mengirim Menfess ya FWB👍")
