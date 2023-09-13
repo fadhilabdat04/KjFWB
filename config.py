@@ -5,8 +5,8 @@ api_hash = os.environ.get("API_HASH", "301a39af78de73406a67c75ad7dd7301")
 bot_token = os.environ.get("BOT_TOKEN", "6094343545:AAFweLwVYg4Z-R40pL7VUVHDlWdcwRp4F6w")
 # =========================================================== #
 
-db_url = os.environ.get("DB_URL", "mongodb+srv://doadmin:N5qU43b167EgJH89@db-mongodb-sgp1-31724-8b5ccdd0.mongo.ondigitalocean.com/admin?tls=true&authSource=admin&replicaSet=db-mongodb-sgp1-31724")
-db_name = os.environ.get("DB_NAME", "doadmin")
+db_url = os.environ.get("DB_URL", "mongodb+srv://kjmenfes:fadhil123@cluster0.inkz42g.mongodb.net/?retryWrites=true&w=majority")
+db_name = os.environ.get("DB_NAME", "kjmenfes")
 # =========================================================== #
 
 channel_1 = int(os.environ.get("CHANNEL_1", "-1001940956612"))
